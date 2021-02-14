@@ -1,0 +1,7 @@
+{
+    "name": "petid/dummy",
+    "description": "Dummy package for packagist.org",
+    "require": {
+        "php": "^7.4"
+    }
+}
